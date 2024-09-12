@@ -96,5 +96,5 @@ Feel free to contribute to the project by submitting issues or pull requests. An
 
 ## License
 
-MIT License
+MysticReaper
 
